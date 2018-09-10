@@ -1,0 +1,1195 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	width: 1500px;
+  padding: 80px;
+  padding-left: 200px;
+	font-style: normal;
+	font-size: 13px;
+	font-weight: lighter;
+}
+
+
+.Letter{
+    position: relative;
+    height:400px;
+    width: 300px;
+    margin: 50px;
+    float: left;
+    display: inline-block;
+    /*background-color: #73AD21;*/
+
+}
+
+.bar{
+    position: absolute;
+    border-radius: 50px;
+    background: black;
+    width: 18%;
+    height: 90%;
+    top: 5%;
+
+
+}
+.dot{
+  position: relative;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+
+/* G1 */
+#G1 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G1 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G1 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G1 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G1 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G2 */
+#G2 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G2 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G2 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G2 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G2 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G3 */
+#G3 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G3 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G3 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G3 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G3 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G4 */
+#G4 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G4 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G4 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G4 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G4 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G5 */
+#G5 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G5 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G5 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G5 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G5 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G6 */
+#G6 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G6 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G6 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G6 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G6 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G7 */
+#G7 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G7 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G7 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G7 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G7 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G8 */
+#G8 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G8 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G8 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G8 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G8 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G9 */
+#G9 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G9 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G9 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G9 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G9 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G10 */
+#G10 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G10 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G10 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G10 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G10 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G11 */
+#G11 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G11 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G11 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G11 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G11 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G12 */
+#G12 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G12 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G12 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G12 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G12 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G13 */
+#G13 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G13 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G13 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G13 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G13 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G14 */
+#G14 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G14 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G14 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G14 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G14 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G15 */
+#G15 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G15 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G15 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G15 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G15 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G16 */
+#G16 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G16 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G16 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G16 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G16 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G17 */
+#G17 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G17 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G17 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G17 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G17 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G18 */
+#G18 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G18 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G18 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G18 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G18 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G19 */
+#G19 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G19 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G19 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G19 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G19 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G20 */
+#G20 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G20 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G20 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G20 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G20 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G21 */
+#G21 #bar1{
+    height: 70%;
+    margin-top: 25%;
+}
+
+
+#G21 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G21 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G21 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G21 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G22 */
+#G22 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G22 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G22 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G22 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G22 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G23 */
+#G23 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G23 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G23 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G23 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G23 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+/* G24 */
+#G24 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G24 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G24 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G24 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G24 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G25 */
+#G25 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G25 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G25 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G25 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G25 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G26 */
+#G26 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G26 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G26 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G26 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G26 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G27 */
+#G27 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G27 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G27 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G27 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G27 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G28 */
+#G28 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G28 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G28 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G28 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+
+#G28 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+
+/* G29 */
+#G29 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G29 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G29 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G29 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+#G29 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G30 */
+#G30 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+
+#G30 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G30 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G30 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+#G30 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G31 */
+#G31 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+#G31 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G31 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G31 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+#G31 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+
+/* G32 */
+#G32 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+#G32 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G32 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G32 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+#G32 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
+
+/* G33 */
+#G33 #bar1{
+    height: 70%;
+    top: 23%;
+}
+
+#G33 #bar2{
+    height: 35%;
+   left: 82%;
+    top: 56%;
+    
+}
+
+#G33 #dot1{
+  float: right;
+  right:  40%;
+  top: 5%;
+
+}
+
+#G33 #dot2{
+  float: right;
+  right: 23%;
+  top: 47%;
+
+}
+#G33 #dot3{
+  float: right;
+ right: 7%;
+  top: 86%;
+
+}
