@@ -1,0 +1,47 @@
+html, body{
+	width: 100%;
+	height:100%;
+}
+
+h1{
+	font-family: monospace;
+	margin: 30px;
+}
+
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:400%;
+	width:20px;
+}
+
+.marker{
+	width:100%;
+	height:25%;
+	border: 2px solid black;
+}
+
+
+.box {
+position: fixed;
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  margin-right: 5px;
+  margin-left: 5px;
+  opacity: .7;
+  transition: 1s ;
+}
+
+=

@@ -1,0 +1,82 @@
+html, body{
+	width: 100%;
+	height:100%;
+}
+
+h1{
+	font-family: monospace;
+	margin: 30px;
+}
+
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+/*
+.one{
+	background-color: green;
+}
+
+.two{
+	background-color: red;
+
+}
+.three{
+	background-color: blue;
+	
+}
+.four{
+	background-color: yellow;
+	
+}
+.five{
+	background-color: white;
+
+}
+*/
+
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:400%;
+	width:20px;
+}
+
+.marker{
+	width:100%;
+	height:25%;
+	border: 2px solid black;
+}
+
+
+.colorBlock{
+	z-index: 0;
+	position: fixed;
+	width:400px;
+	height:400px;
+	transition: 2s;
+	left: 42%;
+
+}
+
+.circle{
+	position: fixed;
+	z-index: 1;
+	width:300px;
+	height:300px;
+	border-radius: 50%;
+	left: 46%;
+	top: 15%;
+	transition: 1s;
+
+
+}
+
+
+}

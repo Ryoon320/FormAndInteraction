@@ -1,0 +1,78 @@
+html, body{
+	width: 100%;
+	height:100%;
+}
+
+h1{
+	font-family: monospace;
+	margin: 30px;
+}
+
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+/*
+.one{
+	background-color: green;
+}
+
+.two{
+	background-color: red;
+
+}
+.three{
+	background-color: blue;
+	
+}
+.four{
+	background-color: yellow;
+	
+}
+.five{
+	background-color: white;
+
+}
+*/
+
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:400%;
+	width:20px;
+}
+
+.marker{
+	width:100%;
+	height:25%;
+	border: 2px solid black;
+}
+
+.spin{
+	position:absolute;
+	top:33%;
+	left:33%;
+}
+
+.pop{
+	position: fixed;
+	width:25px;
+	height:25px;
+	 border-radius: 50%;
+	background-color: pink;
+	left: 45%;
+	box-shadow: 120px    0px 0  15px #f00,
+				-20px  104px 0   0px #0f0,
+				-50px -104px 0 -15px #00f,
+				-50px 0px 0 9px black,
+				-90px 64px 0 19px #00f,
+				70px 64px 0 4px yellow;;
+}
+
+
