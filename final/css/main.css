@@ -1,0 +1,379 @@
+body   { background: black; padding: 0; margin: 0; }
+circle { fill: none; stroke-width: 2; stroke-linecap: square; transition:5s; display: none;  }
+.g     { position: absolute; transform-origin: center center; animation: anim 100s linear infinite;}    
+.c2    { transform-origin: center center; transform: rotate(50deg); }
+svg	   { margin-top: 20%; overflow: visible; display: inline-block;}
+
+
+h1{
+text-align:center;
+margin-top: 25%;
+font-size: 1em;
+color: white;
+display: block;
+font-family: monospace;
+}
+
+.intro{
+		display: block;
+	}
+
+.rec{
+	position:absolute;
+	width:100%;
+	height:100%;
+	display: block;
+	transition:0.5s;
+	border: 2px solid white;
+}
+
+@keyframes anim { 
+  0%     { transform:rotate(  0deg)}
+}
+
+@keyframes hideshow {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  15% { opacity: 0; }
+  100% { opacity: 1; }
+} 
+
+
+
+@media (max-width: 1375px) { 
+	
+
+}
+
+	
+@media (max-width: 1325px) { 
+	
+
+}
+
+@media (max-width: 1300px) { 
+	.rec{
+		width:0%;
+	height:0%;
+	}
+	.intro{
+		display: none;
+	}
+	
+
+}
+
+@media (max-width: 1275px) { 
+	#one{opacity: 1; display: block; transition:3s;}
+}
+	
+@media (max-width: 1250px) { 
+	#two{opacity: 1; display: block;transition:3s;}
+	
+}
+@media (max-width: 1225px) { 
+	
+	
+}
+	
+@media (max-width: 1200px) { 
+	#three {opacity: 1; display: block;}
+}
+
+@media (max-width: 1175px) { 
+	@keyframes anim { 
+	 10%  { transform:rotate( 20deg)}}
+	
+}
+	
+@media (max-width: 1150px) { 
+	#four {opacity: 1; display: block;transition:3s;}
+	
+}
+
+@media (max-width: 1125px) { 
+	
+
+	
+@media (max-width: 1100px) { 
+	#five{opacity: 1; display: block;}
+}
+
+@media (max-width: 1075px) { 
+	
+}
+	
+@media (max-width: 1050px) { 
+	#six{opacity: 1; display: block;}
+		circle{ stroke-width:0.7;}
+}
+	
+@media (max-width: 1250px) { 
+	
+}
+
+@media (max-width: 1025px) { 
+	#seven{opacity: 1; display: block;}
+		
+}
+
+@media (max-width: 1000px) { 
+	
+}
+	
+@media (max-width: 975px) { 
+	#eight {opacity: 1; display: block;}
+}
+@media (max-width: 950px) { 
+	
+}
+	
+@media (max-width: 925px) { 
+	#nine {opacity: 1; display: block;}
+}
+
+@media (max-width: 900px) { 
+	
+		
+}
+
+@media (max-width: 875px) { 
+	#ten{opacity: 1; display: block;}
+}
+	
+@media (max-width: 850px) { 
+
+	
+}
+
+@media (max-width: 825px) { 
+	#eleven { opacity: 1; display: block;}
+	
+}
+	
+@media (max-width: 800px) { 
+	
+}
+
+@media (max-width: 775px) { 
+	#twelve{opacity: 1; display: block;}
+	
+}
+
+@media (max-width: 750px) { 
+
+}
+
+@media (max-width: 725px) {
+	#thirteen {opacity: 1; display: block;} 
+}
+
+@media (max-width: 700px) { 
+	
+}
+
+@media (max-width: 675px) { 
+
+	#fourteen{opacity: 1; display: block;}
+	@keyframes anim { 
+	40%  { transform:rotate(180deg);
+		transition: 5s;}}
+	
+}
+
+@media (max-width: 650px) { 
+	
+}
+@media (max-width: 625px) { 
+ 	#fifteen{opacity: 1; display: block;}
+}
+
+@media (max-width: 600px) { 
+	
+circle{
+		stroke-width: 5; stroke-linecap: round;
+	}
+}
+
+@media (max-width: 575px) { 
+svg	   {filter: saturate(4); transition:3s;}
+		
+}
+
+@media (max-width: 550px) { 
+			
+}
+
+
+@media (max-width: 525px) { 
+
+}
+
+@media (max-width: 500px) { 
+	circle{
+		 stroke-width:0.7; stroke-linecap: square;
+	}
+}
+	
+@media (max-width: 475px) { 
+@keyframes anim { 
+	 60%  { transform:rotate( 90deg); }
+	}
+}
+
+@media (max-width: 450px) {
+
+
+}
+
+
+ 
+}
+@media (max-width: 425px) { 
+
+	
+}
+
+@media (max-width: 400px) { 
+
+}
+
+@media (max-width: 350px) { 
+	
+}
+
+
+
+/*height*/
+
+
+
+
+@media (max-height: 900px) { 
+	
+}
+
+@media (max-height: 875px) { 
+	
+}
+
+@media (max-height: 850px) { 
+	
+}
+
+@media (max-height: 825px) { 
+	
+}
+
+@media (max-height: 800px) { 
+	
+
+}
+
+@media (max-height: 775px) { 
+	
+	
+	#fourteen{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 750px) { 
+	#thirteen{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 725px) { 
+	#twelve{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 700px) { 
+	#eleven{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 675px) { 
+	#ten{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 650px) { 
+	#nine{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+@media (max-height: 625px) { 
+	#eight{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 600px) { 
+	#seven{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 575px) { 
+	#six{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 550px) { 
+	#five{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 525px) { 
+	#four{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 500px) { 
+	#three{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 475px) { 
+	#two{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 450px) { 
+	#one{
+		transform: rotate3d(0, 1, 0.5, 360deg);
+		
+	}
+}
+
+@media (max-height: 425px) { 
+
+}
+
+@media (max-height: 400px) { 
+	
+}
+
